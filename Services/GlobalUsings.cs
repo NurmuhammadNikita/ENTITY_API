@@ -1,0 +1,9 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Services.Interfaces;
+global using Microsoft.EntityFrameworkCore;
+global using Services.DataContext;
+global using Services.Services;
